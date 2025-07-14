@@ -1,12 +1,8 @@
 #  RedditReveal: AI-Driven Persona Builder 🧠
 
+
 This Python project analyzes a Reddit user's activity and generates a detailed user persona using the Llama 3 model via OpenRouter. Each persona includes motivations, personality traits, behavior habits, frustrations, and goals — all cited from the user's own Reddit posts and comments.
 
----
-
-## Overview 
-
-This project generates a detailed, visually-structured **user persona** from a Reddit user's public activity (posts and comments), inspired by professional UX research formats.  
 The persona includes:
 
 - Demographics (Age, Occupation, Status, Location, etc.)
@@ -22,8 +18,8 @@ All insights are generated using **Meta’s Llama 3 LLM** (via OpenRouter API) f
 
 ---
 
-## 🧩 Folder Structure
-    reddit-user-persona/
+##  Folder Structure
+    RedditReveal--AI-Driven-Persona-Builder/
     ├── main.py
     ├── requirements.txt
     ├── README.md
@@ -48,8 +44,8 @@ All insights are generated using **Meta’s Llama 3 LLM** (via OpenRouter API) f
 ## Setup Instructions
 
 ### 1. Clone the Repository
-    git clone https://github.com/yourusername/reddit-user-persona.git
-    cd reddit-user-persona
+    git clone https://github.com/atharvramgir/RedditReveal--AI-Driven-Persona-Builder.git
+    cd RedditReveal--AI-Driven-Persona-Builder
 
 
 
@@ -111,8 +107,8 @@ see the outputs\Hungry-Move-6603_persona.txt for full text
 
 ##  Tested Reddit Users
 
-- `kojied` – active in finance and data subs  
-- `Hungry-Move-6603` – business-oriented with regional commentary  
+- [kojied](https://www.reddit.com/user/kojied/) – active in finance and data subs  
+- [Hungry-Move-6603](https://www.reddit.com/user/Hungry-Move-6603/) – business-oriented with regional commentary  
 
 
 ----
