@@ -66,7 +66,7 @@ Create a `.env` file in the project root with the following content:
 
 - [Get Reddit API credentials here.](https://www.reddit.com/prefs/apps) (Create a "script" app.)
 - [Get an OpenRouter API key here.](https://openrouter.ai/)
-
+> ⚠️ **Note**: Never commit your `.env` file to GitHub! Keep your API keys private.
 ### 4. Run the Script
 
     python main.py
@@ -97,7 +97,7 @@ Create a `.env` file in the project root with the following content:
 
 see the outputs\Hungry-Move-6603_persona.txt for full text
 
-> ⚠️ **Note**: Never commit your `.env` file to GitHub! Keep your API keys private.
+
 
 ## 📄 Sample Output Snippet
 
